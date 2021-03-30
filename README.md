@@ -7,6 +7,6 @@ Technologies Used
 2. Bootstrap 5
 3. NewsAPI
 
-##About Developer
+## About Developer
 Pawan Kumar
 (B.Tech, UG EEE, IIT-P)
